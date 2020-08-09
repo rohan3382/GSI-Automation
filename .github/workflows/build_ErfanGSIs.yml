@@ -14,9 +14,9 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://download.c.realme.com/osupdate/RMX1901EX_11_OTA_1040_all_BbUuFdfQYcIr.ozip
-  ROM_NAME: ColorOS
-  ZIP_NAME: Realmeme
+  ROM_URL: https://dl.google.com/developers/android/rvc/images/factory/taimen-rpb3.200720.005-factory-0396f427.zip
+  ROM_NAME: Pixel 2XL
+  ZIP_NAME: Pixel
   TZ: Asia/Kolkata
   MIR: bit
 jobs:
