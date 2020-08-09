@@ -15,7 +15,7 @@ on:
     
 env:
   ROM_URL: https://dl.google.com/developers/android/rvc/images/factory/taimen-rpb3.200720.005-factory-0396f427.zip
-  ROM_NAME: Pixel 2XL
+  ROM_NAME: Pixel 2 Xl
   ZIP_NAME: Pixel
   TZ: Asia/Kolkata
   MIR: bit
