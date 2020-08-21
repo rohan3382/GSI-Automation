@@ -14,9 +14,9 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://dl.google.com/developers/android/rvc/images/factory/taimen-rpb3.200720.005-factory-0396f427.zip
-  ROM_NAME: Pixel 2XL
-  ZIP_NAME: Pixel
+  ROM_URL: https://mpl1.androidfilehost.com/dl/MnrwA5aXfe2G_ec8cZYwwg/1598104885/8889791610682914729/MMX_2x.22.0_lmi_20.8.13_v12-11_20200814.zip
+  ROM_NAME: Generic
+  ZIP_NAME: MIUI12
   TZ: Asia/Kolkata
   MIR: bit
 jobs:
